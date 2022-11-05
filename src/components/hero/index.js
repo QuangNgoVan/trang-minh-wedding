@@ -28,7 +28,7 @@ class SimpleSlider extends Component {
                 <h2>Save The Date</h2>
               </div>
               <div className="slide-text">
-                <p>01-10-2022</p>
+                <p>13-11-2022</p>
               </div>
             </div>
           </div>
