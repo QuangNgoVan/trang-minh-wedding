@@ -88,7 +88,7 @@ const Location = () => {
               <div className="col-lg-7">
                 <div className="ceromony-content">
                   <h3>Lễ thành hôn</h3>
-                  <span className="time">14 giờ Chủ Nhật, ngày 13 tháng 11 năm 2022</span>
+                  <span className="time">13 giờ Chủ Nhật, ngày 13 tháng 11 năm 2022</span>
                   <span className="location">
                     Thôn Vọng Giang, Xã Mai Đình, Huyện Hiêp Hoà, Tỉnh Bắc Giang
                   </span>
