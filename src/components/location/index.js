@@ -32,7 +32,7 @@ const Location = () => {
                   <h3>Lễ ăn hỏi</h3>
                   <span className="time">8 giờ Thứ 7, ngày 12 tháng 11 năm 2022</span>
                   <span className="location">
-                    Thôn Vọng Giang, Xã Mai Đình, Huyện Hiêp Hoà, Tỉnh Bắc Giang
+                    Thôn Vọng Giang, Xã Mai Đình, Huyện Hiệp Hoà, Tỉnh Bắc Giang
                   </span>
                   <a
                     className="locationMap"
@@ -54,7 +54,7 @@ const Location = () => {
                 <h3>Tiệc cưới</h3>
                 <span className="time">16 giờ 30 phút Thứ 7, ngày 12 tháng 11 năm 2022</span>
                 <span className="location">
-                  Thôn Vọng Giang, Xã Mai Đình, Huyện Hiêp Hoà, Tỉnh Bắc Giang
+                  Thôn Vọng Giang, Xã Mai Đình, Huyện Hiệp Hoà, Tỉnh Bắc Giang
                 </span>
                 <a
                   className="locationMap"
@@ -90,7 +90,7 @@ const Location = () => {
                   <h3>Lễ thành hôn</h3>
                   <span className="time">13 giờ Chủ Nhật, ngày 13 tháng 11 năm 2022</span>
                   <span className="location">
-                    Thôn Vọng Giang, Xã Mai Đình, Huyện Hiêp Hoà, Tỉnh Bắc Giang
+                    Thôn Vọng Giang, Xã Mai Đình, Huyện Hiệp Hoà, Tỉnh Bắc Giang
                   </span>
                   <a
                     className="locationMap"
